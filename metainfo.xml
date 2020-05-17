@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="8613C344-6C22-42CA-86CC-DCADBDCDEAAE" version="0">
+	<info>
+		<title>Latihan PAS PKn - Tematik 1H</title>
+		<description/>
+	</info>
+	<files index="id15" thumbnail="id11" totalSize="2862388">
+		<file id="id0">data/browsersupport.js</file>
+		<file id="id1">data/fonts/fnt0.woff</file>
+		<file id="id2">data/fonts/fnt1.woff</file>
+		<file id="id3">data/html5-unsupported.html</file>
+		<file id="id4">data/html5.png</file>
+		<file id="id5">data/images/img-25c7-98fe-934c-302f.jpg</file>
+		<file id="id6">data/images/img-2e99-abfa-9a4e-9210.jpg</file>
+		<file id="id7">data/images/img-976b-61cc-f058-fd01.jpg</file>
+		<file id="id8">data/images/img-c905-fc81-c4ae-75b7.jpg</file>
+		<file id="id9">data/ismplayer/app_store2x.png</file>
+		<file id="id10">data/ismplayer/play.svg</file>
+		<file id="id11">data/ismplayer/preview.png</file>
+		<file id="id12">data/ismplayer/style.css</file>
+		<file id="id13">data/ismplayer/style_mini.css</file>
+		<file id="id14">data/player.js</file>
+		<file id="id15">index.html</file>
+		<file id="id16">ismplayer.html</file>
+		<file id="id17">preview.png</file>
+	</files>
+</presentation>
+
